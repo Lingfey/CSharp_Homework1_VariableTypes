@@ -1,0 +1,15 @@
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/bin/Debug/net7.0/Task5
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/bin/Debug/net7.0/Task5.deps.json
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/bin/Debug/net7.0/Task5.runtimeconfig.json
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/bin/Debug/net7.0/Task5.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/bin/Debug/net7.0/Task5.pdb
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.csproj.AssemblyReference.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.AssemblyInfoInputs.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.AssemblyInfo.cs
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/refint/Task5.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.pdb
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/Task5.genruntimeconfig.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Task5/obj/Debug/net7.0/ref/Task5.dll

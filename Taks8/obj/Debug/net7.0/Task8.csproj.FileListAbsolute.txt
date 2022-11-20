@@ -1,0 +1,15 @@
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.csproj.AssemblyReference.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.AssemblyInfoInputs.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.AssemblyInfo.cs
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Task8.genruntimeconfig.cache
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/bin/Debug/net7.0/Taks8
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/bin/Debug/net7.0/Taks8.deps.json
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/bin/Debug/net7.0/Taks8.runtimeconfig.json
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/bin/Debug/net7.0/Taks8.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/bin/Debug/net7.0/Taks8.pdb
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Taks8.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/refint/Taks8.dll
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/Taks8.pdb
+/Users/roman/Desktop/RomanGit/CS_learning/CSharp_Homework1/Taks8/obj/Debug/net7.0/ref/Taks8.dll
